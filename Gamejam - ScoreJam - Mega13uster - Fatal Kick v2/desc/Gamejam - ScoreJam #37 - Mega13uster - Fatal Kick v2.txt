@@ -1,0 +1,33 @@
+GameJam - ScoreJam - New Idea
+
+
+Concept
+* Soccer and Score based *
+
+Title : Fatal Kick
+
+Vertical Endless Platformer where the scene starts with someone kicking the soccer ball but it kicks so hard that it blasts past the stadium.
+
+
+Dev Plan
+
+1. Game Scene
+	- player
+	- field/background
+		- parallax
+		- audience
+		
+	- pedestrians
+	- obstacles
+	- speed buffs
+	- break buffs
+	- 
+2. Menu Scene
+3. Settings Scene
+
+Asset Plan
+
+
+
+
+AI Usage
